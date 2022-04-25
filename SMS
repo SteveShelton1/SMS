@@ -1,0 +1,13 @@
+const [state, setState] = useState({ 
+        "firstName": "",
+        "lastName" : "",
+        "mobileNumber" : "",
+        "avalabilities": [{"availabilityId": "",
+    
+ day: ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+
+    "firstPreLunchSession" : "",
+    "lastPreLunchSession" : "",
+    "postLunchFirstSession : "",
+    "postLunchLastSession : "",
+    "error": null});
